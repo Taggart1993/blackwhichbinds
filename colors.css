@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Martian+Mono:wght@100..800&display=swap');
+body {
+	background-color: black;
+}
+p {
+	color: rgb(189,32,1);
+	font-family: "Martian Mono", monospace;
